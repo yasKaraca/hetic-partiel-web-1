@@ -1344,3 +1344,18 @@ table a,
   color: gold;
 }
 
+.background1 {
+  background-image:url('../../images/demo/backgrounds/conci1.jpg');
+}
+
+.background2 {
+  background-image:url('../../images/demo/backgrounds/conci2.jpg');
+}
+
+.background3 {
+  background-image:url('../../images/demo/backgrounds/conci3.jpg');
+}
+
+.background4 {
+  background-image:url('../../images/demo/backgrounds/conci4.jpg');
+}
