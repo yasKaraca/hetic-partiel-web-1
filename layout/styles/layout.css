@@ -1339,3 +1339,8 @@ table a,
   }
 }
 
+.hover-trans:hover {
+  transition: all .3s ease;
+  color: gold;
+}
+
