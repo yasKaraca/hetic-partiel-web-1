@@ -941,6 +941,8 @@ textarea:focus,
 .row1 {
   color: #FFFFFF;
   background-color: rgba(0, 0, 0, .2);
+  margin-top: 0;
+  transition: ease-in-out;
 }
 
 .row2 {
@@ -1372,4 +1374,9 @@ table a,
   background-color: white;
   color: gold;
   transition: all .3s ease;
+}
+
+.position {
+  position: fixed;
+  transition: ease-in-out;
 }
