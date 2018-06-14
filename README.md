@@ -20,7 +20,6 @@ Chaque issue a un barème attribué. Afin d'avoir 20, l'ensemble des issues doiv
   - Fixes #3
   - ... Le numéros étant celui de l'issue en question.
 
-* Mettre en review : David Venin
 * Mettre le label : Need review / Need help
 * N'hésitez pas à mettre en commentaire ce que vous avez trouvé difficile.
 
