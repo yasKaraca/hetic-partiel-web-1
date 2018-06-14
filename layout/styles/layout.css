@@ -1359,3 +1359,9 @@ table a,
 .background4 {
   background-image:url('../../images/demo/backgrounds/conci4.jpg');
 }
+
+.btn-hover:hover {
+  background-color: white;
+  color: gold;
+  transition: all .3s ease;
+}
